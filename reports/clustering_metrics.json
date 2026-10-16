@@ -1,0 +1,6 @@
+{
+  "selected_algorithm": "KMeans",
+  "best_k": 6,
+  "kmeans_silhouette": 0.9245,
+  "gmm_silhouette": 0.883
+}

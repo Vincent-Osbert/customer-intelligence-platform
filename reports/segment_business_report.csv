@@ -1,0 +1,5 @@
+Segment,CustomerCount,AvgRecency,AvgFrequency,AvgMonthlyRevenue,TotalRevenue,RevenueShare_pct,EstimatedCLV,Priority,RecommendedAction
+Dormant / Lost,1791,74.2,3.2,65.05,1398097.56,15.7,370.8,VERY LOW — Evaluate,"Minimal spend. One re-engagement email maximum. If no response, remove from active campaign lists to reduce costs. Analyze WHY they left to prevent future churn from other segments."
+Moderate (Value),111,152.7,4.1,359.55,478922.32,5.4,2049.44,—,—
+Occasional Buyers,1462,157.0,1.0,26.32,461764.69,5.2,150.03,LOW — Nurture,Low-cost email nurture campaign. Seasonal promotions. Do not over-invest — ROI is uncertain for this group.
+VIP Champions,974,22.6,11.2,562.34,6572623.33,73.8,3205.33,HIGH — Protect,"Reward loyalty: early access to new products, exclusive discounts, VIP customer events. Do NOT send generic mass promotions — they find it annoying and it cheapens the relationship."

@@ -1,0 +1,53 @@
+{
+  "IsHighValue": {
+    "test_pr_auc": 0.9992,
+    "test_roc_auc": 0.9997,
+    "positive_rate": 0.2501,
+    "features_used": [
+      "AvgBasketSize",
+      "AvgOrderValue",
+      "MaxOrderValue",
+      "PurchaseDaySpread",
+      "AvgDaysBetweenOrders",
+      "PreferredHour",
+      "PreferredDayOfWeek",
+      "UniqueProducts",
+      "Recency",
+      "Frequency"
+    ]
+  },
+  "IsFrequent": {
+    "test_pr_auc": 1.0,
+    "test_roc_auc": 1.0,
+    "positive_rate": 0.6558,
+    "features_used": [
+      "AvgBasketSize",
+      "AvgOrderValue",
+      "MaxOrderValue",
+      "PurchaseDaySpread",
+      "AvgDaysBetweenOrders",
+      "PreferredHour",
+      "PreferredDayOfWeek",
+      "UniqueProducts",
+      "Recency",
+      "Monetary"
+    ]
+  },
+  "IsChurning": {
+    "test_pr_auc": 0.4233,
+    "test_roc_auc": 0.8835,
+    "positive_rate": 0.1388,
+    "features_used": [
+      "AvgBasketSize",
+      "AvgOrderValue",
+      "MaxOrderValue",
+      "PurchaseDaySpread",
+      "AvgDaysBetweenOrders",
+      "PreferredHour",
+      "PreferredDayOfWeek",
+      "UniqueProducts",
+      "Frequency",
+      "Monetary"
+    ]
+  }
+}
